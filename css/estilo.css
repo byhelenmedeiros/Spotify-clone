@@ -31,10 +31,42 @@ nav.navbar-transparent{
     margin: 12px 15px;
 }
 
+/*CAPA*/
+
 .capa{
     text-align: center;
 }
 
+.btn-custom{
+    color: #fff;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+    padding: 10px 20px;
+    margin: 15px;
+}
+
+.btn-roxo{
+    background: #7c25f8;    
+}
+
+.btn-roxo:hover{
+    background: #6207e3;
+    color: #fff;    
+
+}
+
+.btn-branco{
+    border: solid 2px #fff;     
+}
+
+.btn-branco:hover{
+    background-color: #fff;
+    color: #000;
+
+}
 h1{
     font-weight: 900;
     letter-spacing: -0.05em;
@@ -54,6 +86,11 @@ h1{
 
     h1{
         font-size: 3em;
+    }
+
+    .btn-custom{
+        margin: 5px;
+
     }
 }
 
