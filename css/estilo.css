@@ -20,3 +20,9 @@ nav.navbar-transparent{
 .navbar-light .navbar-toggler{
     border: none;
 }
+
+.divisor{
+    width: 1px;
+    background-color: #fff;
+    margin: 12px 15px;
+}
