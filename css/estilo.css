@@ -105,13 +105,10 @@ h3{
 #recursos h3{
     color: #9bf0e1;  
 }
-#recursos h2{
+#recursos h2, p{
     color: #fff;
 }
 
-p{
-
-}
 
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
