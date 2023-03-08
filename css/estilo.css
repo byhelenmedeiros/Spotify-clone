@@ -75,6 +75,44 @@ h1{
     font-family: helvetica;
 }
 
+h2{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+
+}
+h3{
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+.caixa{
+    padding: 40px 0px;
+}
+
+.albuns{
+     padding: 10px 0;
+}
+
+#servicos{
+    background-color: #fff;
+}
+#servicos h2, h3{
+    color: #7c25f8;
+
+}
+#recursos h3{
+    color: #9bf0e1;  
+}
+#recursos h2{
+    color: #fff;
+}
+
+p{
+
+}
+
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
 
