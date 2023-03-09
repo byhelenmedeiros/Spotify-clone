@@ -66,8 +66,13 @@ nav.navbar-transparent{
 .btn-branco:hover{
     background-color: #fff;
     color: #000;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 0%;
 
 }
+
 h1{
     font-weight: 900;
     letter-spacing: -0.05em;
